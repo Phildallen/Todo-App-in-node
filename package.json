@@ -1,0 +1,19 @@
+{
+  "name": "todo-app-in-node",
+  "version": "1.0.0",
+  "description": "To do App",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Phildallen/Todo-App-in-node.git"
+  },
+  "author": "Phil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phildallen/Todo-App-in-node/issues"
+  },
+  "homepage": "https://github.com/Phildallen/Todo-App-in-node#readme"
+}
